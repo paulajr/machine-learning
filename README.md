@@ -1,11 +1,11 @@
 # Undergraduate projects
 Projects completed at Santo Tomas University in Bogota D.C about automatic and machine learning with economic topics.
 
-# **Proyecto Economia Digital.**
+# Digital Economy Project.
 
-> *Pregunta problema ¿Qué relación representa la inversión tecnologica y digital en el sector productivo respecto a la tasa de empleo?*
+> What is the relationship between technological and digital investment in the productive sector with respect to the employment rate ?
 
-Se quiere observar cómo se ha ido desarrollando la economia digital a lo largo del tiempo, si esta ha ido avanzando hacia la sustitución de mano de obra y/o hacia la digitalizacion del trabajo.
+We want to observe how the digital economy has been developing over time, whether it has been moving towards the substitution of labor and/or the digitization of work.
 
-Carpeta de bases:
+Basic folder:
 https://drive.google.com/drive/folders/16Os-eZq55ESwRaYXsRplI83PDSlprBHy?usp=sharing
