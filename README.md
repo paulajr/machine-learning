@@ -1,5 +1,5 @@
 # Undergraduate projects
-Projects completed at Universidad Santo Tomas in Bogota D.C about automatic and machine learning with economic topics.
+Projects completed at Santo Tomas University in Bogota D.C about automatic and machine learning with economic topics.
 
 # **Proyecto Economia Digital.**
 
