@@ -1,11 +1,13 @@
 # Undergraduate projects
 Projects completed at Santo Tomas University in Bogota D.C about automatic and machine learning with economic topics.
 
-## Digital Economy Project.
+## Digital Economy and unemployment Project.
 
-> What is the relationship between technological and digital investment in the productive sector with respect to the employment rate ?
+> What is the relationship between technological and digital investment in the productive sector and the unemployment rate?
 
 We want to observe how the digital economy has been developing over time, whether it has been moving towards the substitution of labor and/or the digitization of work.
+![image](https://github.com/user-attachments/assets/798ed17d-aa16-4c3a-8b7e-f79e6303f1c8)
+
 
 Basic folder:
 https://drive.google.com/drive/folders/16Os-eZq55ESwRaYXsRplI83PDSlprBHy?usp=sharing
